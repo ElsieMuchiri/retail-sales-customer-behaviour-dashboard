@@ -73,6 +73,4 @@ Through this project, I strengthened my skills in data cleaning, exploratory dat
 
 ## How to View the Dashboard
 
-1. Download or clone this repository.
-2. Open the `retail_sales_dashboard.html` file in any modern web browser (such as Google Chrome or Microsoft Edge).
-3. Use the interactive filters to explore customer behaviour, sales trends, and business insights.
+Visit the live dashboard here: https://elsiemuchiri.github.io/retail-sales-customer-behaviour-dashboard/
