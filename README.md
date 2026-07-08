@@ -51,7 +51,7 @@ This project presents an interactive dashboard built using a retail shopping tre
 ```text
 Retail Sales & Customer Behaviour Dashboard/
 │
-├── retail_sales_dashboard.html
+├── index.html
 ├── README.md
 ├── analysis/
 │   └── Retail Sales & Customer Behaviour Analysis.xlsx
